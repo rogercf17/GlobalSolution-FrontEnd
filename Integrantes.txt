@@ -1,31 +1,3 @@
 Integrantes:
 Gabriel Machado Lacerda RM:556714
 Roger Cardoso Ferreira RM: 557230
-
-Claro! Aqui estão algumas sugestões de imagens para cada seção mencionada:
-
-### Seção 1: O problema que a solução irá resolver
-
-**Imagem**: Uma representação visual do problema, como pessoas enfrentando dificuldades ou frustrações. Pode ser uma foto de alguém lidando com uma tarefa complexa ou confusa, um gráfico mostrando a ineficiência de um processo atual, ou uma ilustração de um gargalo ou obstáculo.
-
-### Seção 2: Qual a tecnologia que pretendem utilizar
-
-**Imagem**: Elementos visuais que representem a tecnologia escolhida. Se for uma aplicação de software, pode ser uma captura de tela ou mockup da interface. Se for uma tecnologia específica como IA, blockchain ou IoT, pode incluir ícones ou diagramas representando essas tecnologias.
-
-### Seção 3: Quais os objetivos pretendem alcançar
-
-**Imagem**: Um gráfico ou diagrama mostrando os objetivos de forma clara e concisa. Pode ser uma linha do tempo com marcos importantes, uma infografia com metas ou um diagrama de fluxo mostrando o processo de alcançar esses objetivos.
-
-### Seção 4: Qual o público que será impactado
-
-**Imagem**: Fotos ou ilustrações do público-alvo. Isso pode incluir imagens de diferentes grupos demográficos, como jovens, adultos, profissionais de determinadas áreas, ou qualquer grupo específico que a solução pretende atingir. Fotos de pessoas interagindo com tecnologia de maneira positiva também podem ser eficazes.
-
-### Seção 5: Quais os benefícios oferecidos pela solução
-
-**Imagem**: Representações visuais dos benefícios. Isso pode incluir ícones ou infográficos mostrando os principais pontos positivos, como eficiência aumentada, redução de custos, facilidade de uso, etc. Fotos de pessoas felizes e satisfeitas usando a solução também podem transmitir esses benefícios de maneira emocional.
-
-### Seção 6: Como essa solução pode ajudar no dia a dia das pessoas que irão utilizá-la
-
-**Imagem**: Cenários do dia a dia onde a solução é utilizada de forma eficaz. Pode ser uma série de imagens mostrando uma jornada do usuário, com antes e depois, ou uma foto de alguém usando a solução em um ambiente natural, como no trabalho, em casa ou em movimento.
-
-Essas imagens ajudarão a ilustrar claramente cada seção, facilitando a compreensão e engajamento dos leitores.
